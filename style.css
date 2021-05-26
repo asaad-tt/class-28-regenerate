@@ -1,0 +1,14 @@
+.menu li{
+    display: inline-block;
+}
+.menu li a{
+    color: #000;
+}
+
+.section-color{
+    background: #212529;
+}
+
+footer{
+    background: #212529;
+}
